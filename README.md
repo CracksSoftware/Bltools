@@ -23,7 +23,6 @@ Cookie checker does not miss valid sessions - this is the most important thing.
 This checker will find something that no other checker will find.
 You can easily recoup the program by checking your old logs.
 
-![photo_2023-05-17_11-55-41](https://github.com/CracksSoftware/Bltools/assets/135487070/c8f80b69-7d4e-48dc-9379-12a453209bd0)
+![photo](https://github.com/CracksSoftware/Bltools/assets/135487070/c8f80b69-7d4e-48dc-9379-12a453209bd0)
 
-
-https://www.mediafire.com/file/af4l0qvkexyu2hp/BLTools_v2.4.rar](DOWNLOAD)
+![BLTOOLS](DOWNLOAD) 
